@@ -1,0 +1,5 @@
+site_name: Helen's website
+
+nav:
+  - index.md
+  - musical-asdf.md
